@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/dev/include/linux-common",
+                "D:/dev/include/linux-common/linux",
+                "D:/dev/include/gcc-4.8.2"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "KERNEL",
+                "INET"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.15.26726/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
+
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "sys/hp": true,
+        "sys/hp300": true,
+        "sys/sparc": true,
+        "sys/luna68k": true,
+        "sys/new3400": true,
+        "sys/vax": true,
+        "sys/dev": true,
+        "sys/isofs": true,
+        "sys/libkern": true,
+        "sys/miscfs": true,
+        "sys/netiso": true,
+        "sys/netns": true,
+        "sys/news3400": true,
+        "sys/nfs": true,
+        "sys/pmax": true,
+        "sys/scripts": true,
+        "sys/stand": true,
+        "sys/stand.att": true,
+        "sys/tahoe": true,
+        "sys/tests": true,
+        "sys/ufs": true,
+        "sys/vm": true,
+        "sys/netccitt": true
+    }
+}
